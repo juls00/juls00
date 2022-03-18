@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juls00
+- 👋 Hi, I’m @juls00 a software engineer
 - 👀 I’m interested in imporve my self each day
 - 🌱 I’m currently learning, front-end (HTML,CSS,JAVASCRIPT) and back-end (React,Node, MongoDB)
 - 📫 How to reach me, julianfu00@outlook.com
